@@ -1,0 +1,27 @@
+#deezer-app {
+    margin: 16px;
+}
+
+#deezer-player {
+    width: 100%;
+}
+
+#song-list {
+    border: 1px solid #000;
+    padding: 8px;
+}
+
+#song-list .song {
+    background-color: #eee;
+    margin: 2px 0;
+}
+
+#artist-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.HStack {
+    display: flex;
+    justify-content: space-between;
+}
